@@ -32,10 +32,11 @@ Visit for demo - https://mad-chess.netlify.app/
 2. **Follow On-Screen Instructions**: Use your keyboard to input moves and navigate through the game.
 
 ## UI 
-<img width="1219" alt="Screenshot 2024-05-26 at 2 58 25 PM" src="https://github.com/madhukarchintoju/mad-chess/assets/83753355/afef2c3d-b56a-4502-af06-f14fdf70378b">
-<img width="1315" alt="Screenshot 2024-05-26 at 2 58 13 PM" src="https://github.com/madhukarchintoju/mad-chess/assets/83753355/a4f4a7ef-b262-4a02-927c-5af5bfbe2b06">
-<img width="1212" alt="Screenshot 2024-05-26 at 2 59 05 PM" src="https://github.com/madhukarchintoju/mad-chess/assets/83753355/c2560f73-b4a0-4c2e-b468-fcae8c6be5a9">
-<img width="1206" alt="Screenshot 2024-05-26 at 2 58 54 PM" src="https://github.com/madhukarchintoju/mad-chess/assets/83753355/9c3f1e85-859b-49de-8c18-cc254d09b6ea">
+<img width="1206" alt="Screenshot 2024-05-26 at 2 58 54 PM" src="https://github.com/madhukar0123/mad-chess/assets/3749421/fa6eec19-420f-4373-b152-7e604b3c9934">
+<img width="1219" alt="Screenshot 2024-05-26 at 2 58 25 PM" src="https://github.com/madhukar0123/mad-chess/assets/3749421/809f2fe1-97c7-4552-b898-71afbf9bfa67">
+<img width="1315" alt="Screenshot 2024-05-26 at 2 58 13 PM" src="https://github.com/madhukar0123/mad-chess/assets/3749421/2696a384-b005-434c-937b-4d88c469346f">
+<img width="1212" alt="Screenshot 2024-05-26 at 2 59 05 PM" src="https://github.com/madhukar0123/mad-chess/assets/3749421/a9bfc6ea-fc02-4e17-ad44-f50b667a7e18">
+
 
 
 ## License
