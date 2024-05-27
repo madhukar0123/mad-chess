@@ -12,7 +12,7 @@ Visit for demo - https://mad-chess.netlify.app/
 1. **Installation**: Clone the repository to your local machine.
 
    ```
-   git clone https://github.com/madhukarchintoju/mad-chess.git
+   git clone https://github.com/madhukar0123/mad-chess.git
    ```
 
 2. **Dependencies**: Ensure you have [Nodejs > 20] installed on your machin and ```yarn install```
